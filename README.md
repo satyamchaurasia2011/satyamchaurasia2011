@@ -21,3 +21,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamchaurasia2011&show_icons=true&locale=en&layout=compact" alt="satyamchaurasia2011" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamchaurasia2011&show_icons=true&locale=en" alt="satyamchaurasia2011" /></p>
+
