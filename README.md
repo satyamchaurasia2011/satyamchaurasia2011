@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer and coder from India</h3>
 
 
-- 🌱 I’m currently learning **MERN and Competitive Programming**
+- 🌱 I’m currently learning **MERN** and **Competitive Programming**
 
 - 📫 Feel free to mail me at **satyamchaurasia2011@gmail.com**
 
