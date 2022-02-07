@@ -23,4 +23,4 @@
 </p>
 
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamchaurasia2011&theme=tokyonight&line_height=27" alt="satyamchaurasia2011" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamchaurasia2011&theme=tokyonight&line_height=27" alt="satyamchaurasia2011" /></p>
