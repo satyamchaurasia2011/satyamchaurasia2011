@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Satyam Chaurasia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <p align="center">
 <img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
 </p>
@@ -20,7 +20,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=satyamchaurasia2011&theme=tokyonight" alt="satyamchaurasia2011" />
 </p>
-<p align="center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamchaurasia2011&show_icons=true&theme=tokyonight&line_height=27" alt="satyamchaurasia2011" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamchaurasia2011&show_icons=true&theme=tokyonight&line_height=27" alt="satyamchaurasia2011" /></p>
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamchaurasia2011&theme=tokyonight&line_height=27" alt="satyamchaurasia2011" /></p>
